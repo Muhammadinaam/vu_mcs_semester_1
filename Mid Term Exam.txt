@@ -1,0 +1,6 @@
+Intro to Programming (Chapter , Lecture 22) 280 pages, 60 pages per day
+Theory of Automata (Chapter , Lecture 22) 70 pages, 15 pages per day
+Data Communication (Chapter 8, Lecture 123) 25 lectures per day
+Business and Technical English (Chapter , Lecture 22) 100 pages, 25 pages per day
+Discrete Math (Chapter , Lecture 22) 170 pages, 35 pages per day
+Stat (Chapter , Lecture 22) 170 pages, 35 pages per day
